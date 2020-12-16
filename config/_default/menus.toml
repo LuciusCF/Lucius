@@ -18,7 +18,7 @@
   #url = "#skills"
   #weight = 30
 
-  [[main]]
+ [[main]]
   name = "Accomplish­ments"
   url = "#accomplish­ments"
   weight = 40

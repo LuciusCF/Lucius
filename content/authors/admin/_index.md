@@ -49,12 +49,12 @@ social:
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LuciusCF
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+#- icon: github
+  #icon_pack: fab
+ # link: https://github.com/LuciusCF
+#- icon: linkedin
+ # icon_pack: fab
+ # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Fang Tianxing is a Senior Research Manager at ICBC Asia. His research interests include supply chain management, financial stability, portfolio management. 
+Tian Xing is a Senior Research Manager at ICBC Asia. His research interests include supply chain management, financial stability, portfolio management. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

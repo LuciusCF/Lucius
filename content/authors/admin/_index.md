@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fang Tianxing
+title: Tian Xing
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,9 +18,9 @@ bio: Researcher/Author/Investor
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Financial Stability
+- Portfolio Management
+- Supply Chain Management
 
 # Education to show in About widget
 education:
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Fang Tianxing is a Senior Research Manager at ICBC Asia. His research interests include supply chain risk management, financial stability, portfolio management. 
+Fang Tianxing is a Senior Research Manager at ICBC Asia. His research interests include supply chain management, financial stability, portfolio management. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

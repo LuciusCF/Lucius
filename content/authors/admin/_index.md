@@ -10,8 +10,8 @@ first_name: 神通
 last_name: LC
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+ # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: Philosopher/Teacher
   #  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 好好生活，问题本身会随之改变。
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,12 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-天光是江南地区天之家族的公子，为人沉稳冷静，喜怒不形于色，其身世成谜。
-
-###### 出生日期：
-
-光影纪元990年2月18日
-
-###### 身高：
-
-180厘米
+**好好生活，问题本身会随之改变。**

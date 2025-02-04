@@ -1,6 +1,6 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
+title: 大韩民国第五共和国（1）正熙遇刺半岛惊
+summary: 
 date: 2023-10-25
 authors:
   - admin
@@ -12,146 +12,64 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
 
-## Charts
+韩国现代政治是理解东亚政治特点的绝好切入点。一方面，东亚三国，文化同源（日韩的文化受中国影响颇深），所以这三国的人的一些思维方式，行为模式有共通之处，彼此几乎都能无障碍地理解对方。另一方面，最关键的一点，韩国由于其一些特殊国情，各派势力斗争激烈，后任清算前任的事就没停过，在一轮又一轮清算过程中，对前任政权的一些事件的披露便极为详细，这种主动暴露高层政治细节的特点在全世界都算罕见，却也因此让大众得以了解到韩国现代政治的很多细节，这是非常难得的。
 
-Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
+要了解韩国政治史，看他们的总统的事迹就行。韩国的这些总统，除了几个代行总统（尹代行、崔代行）相对没有存在感外，其余的都相当有个性，很有话题性，即使是公认最菜的尹锡悦，那也是菜都菜得不一般，菜出了新境界。在众多个性十足的韩国总统中，我个人觉得最值得谈论的可能是大韩民国第五共和国的全斗焕。
 
-Save your Plotly JSON in your page folder, for example `line-chart.json`, and then add the `{{</* chart data="line-chart" */>}}` shortcode where you would like the chart to appear.
+不过，要谈第五共和国，就离不开第四共和国的结局——朴正熙之死。
 
-Demo:
+朴正熙（1917年11月14日—1979年10月26日），号中树，大韩民国第5至9届总统，是韩国宪政史上执政时间最长的国家元首，亦是韩国第18任总统朴槿惠的父亲。
 
-{{< chart data="line-chart" >}}
+本系列主要讲“五共”的事，涉及到“四共”的前因部分尽量长话短说。
 
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
+朴正熙晚年发动政变，实行终身总统制，即独裁，其独裁统治有2大支柱：
 
-## Diagrams
+1.      经济高速增长。在朴正熙统治期内，韩国从穷得叮当响的农业国一跃发展为初等工业国，人均国民生产总值从1961年的82美元增加到1979年的1644美元。朴正熙因此被称为“汉江奇迹的缔造者”。
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+2.      情报统治，即通过特务情报机构掌握政局，消灭反对者，维护朴正熙的地位。
 
-An example **flowchart**:
+在1979年这个时间点，朴正熙依靠以下3个人实行情报统治：
 
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
+1.      中央情报部（韩国版的CIA，主要负责搜集国内外的战略情报），金载圭；
 
-renders as
+2.      警卫室（本职工作是保护总统的人身安全，但朴正熙晚年独裁，给警卫室增添了更多职能），车智澈；
 
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
+3.      保安司令部（主要是军队内部的情报机构），全斗焕。
 
-An example **sequence diagram**:
+作为独裁者，朴正熙操控着这三个下属，让他们互相牵制，保障自己的绝对领袖地位。三人中，车智澈和全斗焕对朴正熙都是绝对忠心的，而金载圭作为朴正熙的同乡，曾经应该也是忠心的，但后来由于和车智澈争宠落入下风（因为车智澈就是领导的头号舔狗，太能舔了，而金载圭在舔这方面卷不过他），导致金载圭到最后就忠诚不绝对了。
 
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
+1979年，一场示威运动大大激化了朴正熙和金载圭之间的矛盾。
 
-renders as
+简而言之，当时最大的在野党总裁金泳三（这个名字要圈下，韩国著名“三金“之一，活跃韩国政坛几十年的熟面孔），因为反对朴正熙的独裁统治，要求改革宪法，且加上支持“YH贸易公司”工人斗争，导致朴正熙指使剥夺了金泳三的国会议员资格。
 
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
+金泳三被国会除名后，韩国政坛掀起轩然大波。金泳三的政治根据地釜山、马山和昌原等地爆发大规模示威游行的“釜马示威”，金泳三的选民基本盘们（釜山，马山等地的韩国人）纷纷上街。
 
-An example **class diagram**:
+针对如何镇压“釜马示威”的问题，中央情报部长金载圭明显是虚了，因为他发现对方民意汹涌，人数众多，因此产生了畏惧心理，不敢强硬镇压。
 
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
+而总统朴正熙，作为政变上位的前军人，一方面其性格底色就是强硬的，另一方面，独裁者到了晚年，往往都会越来越冷酷，越来越“孤家寡人”，就类似于古代的皇帝。常年的独裁统治，必然导致朴正熙树敌无数，他只有一直保持这种强硬的态度以及实力，才能镇住各路反对者，一旦稍微流露了一丝妥协或者变弱的痕迹，估计就会有不少反对者蠢蠢欲动。所以，作为独裁者的朴正熙，选择继续强硬处理，可能既有性格原因，也有自保的现实需求。
 
-renders as
+至于头号舔狗车智澈？自然是表示“领导英明”，领导说要做的事，车智澈就说要尽全力地去执行。
 
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
+除此以外，金载圭和车智澈平时就摩擦不断。车智澈仗着自己争（朴正熙的）宠得胜，对金载圭各种不尊敬。并且，金载圭是前辈，车智澈是晚辈，在韩国的文化中，特别讲究上下尊卑，晚辈对前辈不使用敬语都是大事，因此面对晚辈车智澈的各种不尊重，金载圭更是极其愤怒。
 
-An example **state diagram**:
+金载圭越来越感觉到自己失去了朴正熙的信任，有可能被撤职，在这场权力斗争中成为输家，他觉得自己不能坐以待毙，便决定主动出击：刺杀朴正熙，以及灭了头号舔狗（这个原因可能更重要一点）。他产生了这个想法后，便仓促行动，时间就定在当天，1979年10月26日晚上，在朴正熙“大办”的饭局上实施刺杀。
 
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
+所谓“大办”，就是中央情报部定期安排朴正熙的饭局，参与者包括朴正熙以及几个亲信高官，再叫上几个美女陪酒唱歌。
 
-renders as
+1979年10月26日晚上的“大办”，除了朴正熙和形影不离的头号舔狗外，金载圭也参与了。局上，朴正熙问到“釜马示威”进展时又斥责金载圭办事不力，头号舔狗也不出意外地煽风点火，帮腔攻击金载圭。终于，金载圭爆发了，发出一句名台词：
 
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
+随后，金载圭掏出枪，将最高领导朴正熙和头号舔狗同事当场射杀，做了很多打工人梦寐以求但不敢做的事。看来，舔狗这种生物，真是到哪都讨人厌。
 
-## Data Frames
+在韩国的影视剧中，总喜欢把金载圭描述为一个反对独裁，推动民主进程的“高大形象”，这就是立场决定脑袋，其实并不客观，违背了历史。现在的韩国，支持民主反对军政府就是绝对的政治正确，而且影视剧背后的金主财阀对军政府既恨又怕（军政府的几任总统在任上把财阀整出了PTSD），因此所有的这一题材的影视剧对军政府的态度就是批倒批臭（尤其对全斗焕）。在这种“反军政府”的基调下，刺杀了朴正熙的金载圭就成了可以用来展现影视剧制作人的立场的工具人，成了任由他们美化的“民主符号”。然而，历史上的真实的金载圭很难说是“为了民主”，更多的是各种因素集合到一起，一时冲动，脑袋发热，没考虑太多就仓促动手了。
 
-Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
+客观地说，金载圭的这次刺杀，改变了韩国的历史进程，也为各方势力带来了巨大的好处，包括：
 
-```go
-{{</* table path="results.csv" header="true" caption="Table 1: My results" */>}}
-```
+1.      首先得利的就是全斗焕。朴正熙和警卫室长车智澈都死了，中央情报部长金载圭自己也很快被逮捕，真相大白后很快就被处死，使韩国的高层权力机构瞬间出现了巨大混乱，总统、警卫室、中央情报部三个位置全部失能，三大情报统治机构中唯独留下了保安司令部，全斗焕一派未受损失，还被推上了调查本次刺杀事件的风口浪尖。金载圭这场刺杀为全斗焕扫清了通往最高权力宝座的阻碍，堪称神助攻（虽然这绝非金载圭的本意）。
 
-renders as
+2.      民主派人士也得利了。朴正熙执掌韩国总统一职长达18年，其独裁统治在当时难以撼动，民主派根本无力阻挡朴正熙。结果金载圭直接暴力终结了朴正熙的统治，在朴正熙死后，韩国民主派人士看到了希望，掀起了一轮民主化运动的高潮，那段时间被称为“首尔之春”，民主派一度接近胜利，直到被全斗焕出手打败。
 
-{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
+3.      最吊诡（也最让人哭笑不得的）的是，被刺杀的朴正熙本人也得利了。因为当时朴正熙本来已经决定对“釜马示威”采取强硬镇压，即使民众死伤无数也在所不惜（晚年的朴正熙越来越独断残暴），一旦真让他做了，那朴正熙的历史评价大概率就要比全斗焕更低了。结果金载圭让朴正熙被动地“悬崖勒马”，没有做成这事，这就挽救了朴正熙的历史评价。现在韩国人公认的最好的总统，还是朴正熙朴卡卡。从这个角度说，朴正熙本人也算得上是受益于此。
 
-## Did you find this page helpful? Consider sharing it 🙌
+以上就是大韩民国第五共和国的前因，金载圭因个人仇怨和政见不同的原因刺杀了朴正熙，无意中为全斗焕做了嫁衣，将全斗焕推上了历史舞台。不仅如此，金载圭也是无意中“帮人帮到底”，在刺杀当晚的“大办”上，鬼使神差地邀请了另一个高官赴宴——韩国陆军总参谋长（陆军的一把手领导），郑昇和（即，郑总长）。正是这个邀请，又帮了全斗焕的大忙。这就牵扯出第五共和国第一个高潮，全斗焕和其兄弟们一生的高光时刻，双12政变。

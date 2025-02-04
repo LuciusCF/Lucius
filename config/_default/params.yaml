@@ -36,7 +36,7 @@ header:
     logo:
       text: "神通LC"
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      # filename: "logo.svg"
     button:
       enable: false
       text: "Get Started"

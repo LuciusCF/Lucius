@@ -4,7 +4,7 @@
 
 main:
   - name: Author
-    url: author/
+    url: authors/
     weight: 10
   #- name: Features
   #  url: /#features

@@ -38,7 +38,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
-      enable: false
+      enable: true
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     show_search: true
@@ -51,5 +51,5 @@ footer:
 
 # Localization
 locale:
-  date_format: '2006/01/02'
+  date_format: 'Jan 2, 2006'
   time_format: '15:04'

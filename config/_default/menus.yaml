@@ -3,9 +3,9 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Author
-    url: authors/
-    weight: 10
+  #- name: Author
+  #  url: authors/
+  #  weight: 10
   #- name: Features
   #  url: /#features
   #  weight: 20
@@ -16,7 +16,7 @@ main:
     url: blog/
     weight: 40
   - name: Tag
-    url: tag/
+    url: tags/
     weight: 50
   - name: Community
     url: community/

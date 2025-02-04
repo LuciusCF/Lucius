@@ -7,11 +7,10 @@ authors:
 tags:
   - 第五共和国
   - 政治
-image:
+weight: 20
+# image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
-
 
 由于金载圭刺杀朴正熙并没有周密计划，反而处处露出破绽，因此很快就暴露了，当晚即被逮捕。紧接着，剩下的韩国高官的当务之急就是宣布戒严，并授权保安司令官全斗焕全权负责查清朴正熙遇刺一案的真相，追查金载圭的同党。
 

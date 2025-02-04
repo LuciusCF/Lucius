@@ -4,7 +4,6 @@ summary:
 date: 2025-02-04
 authors:
   - admin
-weight:10
 tags:
   - 第五共和国
   - 政治

@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/ShentongLC0
     label: Follow Me on X
   - icon: brands/weixin
     url: /wx
@@ -56,9 +56,9 @@ profiles:
   #- icon: academicons/cv
   #  url: uploads/resume.pdf
   #  label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  #- icon: rss
+   # url: ./post/index.xml
+   # label: Subscribe to my blog via RSS feed
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -37,7 +37,7 @@ profiles:
     url: https://twitter.com/GetResearchDev
     label: Follow Me on X
   - icon: brands/weixin
-    url: uploads/wxqrcode.jpg
+    url: content/wx
     label: 微信公众号
   - icon: custom/weibo
     url: https://weibo.com/
@@ -64,7 +64,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "https://lucius.caelumfamily.com"
 ---
 
 **好好生活，问题本身会随之改变。**

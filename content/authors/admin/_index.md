@@ -40,13 +40,13 @@ profiles:
     url: /wx
     label: 微信公众号
   - icon: custom/weibo
-    url: https://weibo.com/
+    url: https://weibo.com/u/7979291827
     label: 微博
   - icon: custom/zhihu
     url: https://zhihu.com/
     label: 知乎
   - icon: custom/xhs
-    url: https://xiaohongshu.com/
+    url: /xhs
     label: 小红书
   #- icon: brands/instagram
    # url: https://www.instagram.com/

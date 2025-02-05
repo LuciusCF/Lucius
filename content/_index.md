@@ -13,13 +13,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: "test"
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Get Started
-        url: blog/
+      #button:
+       # text: Get Started
+       # url: blog/
     design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:

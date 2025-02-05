@@ -36,9 +36,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/weixin
-    url: https://zhihu.com/
-  - icon: custom/zhihu
-    url: https://zhihu.com/
+    image: "wxqrcode.jpg"
+  #- icon: custom/zhihu
+   # url: https://zhihu.com/
   #- icon: brands/instagram
    # url: https://www.instagram.com/
   #- icon: brands/linkedin

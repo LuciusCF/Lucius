@@ -35,6 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
+  - icon: custom/zhihu
+    url: https://zhihu.com/
   #- icon: brands/instagram
    # url: https://www.instagram.com/
   #- icon: brands/linkedin

@@ -5,7 +5,7 @@ date: 2025-02-04
 authors:
   - admin
 tags:
-  - 第五共和国
+  - 5th Republic of Korea
 
 weight: 11
 # image:

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Home"
 date: 2025-02-04
 type: landing
 
@@ -9,26 +9,21 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # The user's folder name in content/authors/
       username: admin
-      text: 
-      # Show a call-to-action button under your biography? (optional)
-      #button:
-       # text: Get Started
-       # url: blog/
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg.jpg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
-
+      spacing:
+        padding: [0, 0, 0, 0]
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: collection
+    content:
+      filters:
+        folders:
+          - blog
+    design:
+      spacing:
+        padding: ['3rem', 0, '3rem', 0]
 ---

@@ -37,7 +37,7 @@ profiles:
     url: https://twitter.com/GetResearchDev
     label: Follow Me on X
   - icon: brands/weixin
-    url: content/wx
+    url: /wx
     label: 微信公众号
   - icon: custom/weibo
     url: https://weibo.com/

@@ -1,5 +1,5 @@
 ---
-title: 微信公众号
+title: 
 ---
 
 ![](wxqrcode.jpg)

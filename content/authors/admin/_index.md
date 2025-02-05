@@ -39,6 +39,9 @@ profiles:
   - icon: brands/weixin
     url: uploads/wxqrcode.jpg
     label: 微信公众号
+  - icon: custom/weibo
+    url: https://weibo.com/
+    label: 微博
   - icon: custom/zhihu
     url: https://zhihu.com/
     label: 知乎

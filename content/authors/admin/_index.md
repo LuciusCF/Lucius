@@ -37,10 +37,11 @@ profiles:
     url: https://twitter.com/GetResearchDev
     label: Follow Me on X
   - icon: brands/weixin
-    url: assets/media/wxqrcode.jpg
+    url: images/wxqrcode.jpg
     label: 微信公众号
-  #- icon: custom/zhihu
-   # url: https://zhihu.com/
+  - icon: custom/zhihu
+    url: https://zhihu.com/
+    label: 知乎
   #- icon: brands/instagram
    # url: https://www.instagram.com/
   #- icon: brands/linkedin

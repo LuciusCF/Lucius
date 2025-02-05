@@ -35,8 +35,10 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
+    label: Follow Me on X
   - icon: brands/weixin
-    url: assets\media\wxqrcode.jpg
+    url: assets/media/wxqrcode.jpg
+    label: 微信公众号
   #- icon: custom/zhihu
    # url: https://zhihu.com/
   #- icon: brands/instagram

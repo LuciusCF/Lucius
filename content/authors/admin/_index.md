@@ -67,4 +67,6 @@ highlight_name: true
 website: "https://lucius.caelumfamily.com"
 ---
 
-**好好生活，问题本身会随之改变。**
+
+
+# **好好生活，问题本身会随之改变。**

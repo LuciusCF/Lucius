@@ -43,7 +43,7 @@ profiles:
     url: https://weibo.com/u/7979291827
     label: 微博
   - icon: custom/zhihu
-    url: https://zhihu.com/
+    url: https://www.zhihu.com/people/lc-77-46
     label: 知乎
   - icon: custom/xhs
     url: /xhs

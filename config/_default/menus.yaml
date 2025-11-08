@@ -16,7 +16,7 @@ main:
     url: blog/
     weight: 40
   - name: Tag
-    url: tag/
+    url: tags/
     weight: 50
   - name: Community
     url: community/

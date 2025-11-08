@@ -17,7 +17,7 @@ last_name: LC
 superuser: true
 
 # Role/position/tagline
-role: Philosopher/Teacher
+role: Philosopher/Teacher/Investor
 
 # Organizations/Affiliations to show in About widget
 # organizations:

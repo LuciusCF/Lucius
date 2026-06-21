@@ -36,17 +36,17 @@ profiles:
   - icon: brands/x
     url: https://x.com/ShentongLC0
     label: Follow Me on X
-  - icon: brands/weixin
-    url: /wx
-    label: 微信公众号
-  - icon: custom/weibo
-    url: https://weibo.com/u/7979291827
-    label: 微博
-  - icon: custom/zhihu
-    url: https://www.zhihu.com/people/lc-77-46
-    label: 知乎
-  - icon: custom/xhs
-    url: /xhs
+  #- icon: brands/weixin
+  #  url: /wx
+  #  label: 微信公众号
+  #- icon: custom/weibo
+  #  url: https://weibo.com/u/7979291827
+  #  label: 微博
+  # - icon: custom/zhihu
+  #  url: https://www.zhihu.com/people/lc-77-46
+  #  label: 知乎
+ # - icon: custom/xhs
+  #  url: /xhs
     label: 小红书
   #- icon: brands/instagram
    # url: https://www.instagram.com/

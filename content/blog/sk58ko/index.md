@@ -1,5 +1,5 @@
 ---
-title: 
+title: 대한민국 제5공화국 (8) — 죽은 박종철, 산 장세동을 쫓아내다
 summary: 
 date: 2025-03-23
 authors:

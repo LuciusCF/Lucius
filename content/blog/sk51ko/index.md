@@ -1,5 +1,5 @@
 ---
-title: 
+title: 대한민국 제5공화국 (1) — 박정희의 암살, 반도가 놀라다
 summary: 
 date: 2025-02-04
 authors:

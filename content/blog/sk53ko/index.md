@@ -1,5 +1,5 @@
 ---
-title: 
+title: 대한민국 제5공화국 (3) — 서울의 봄, 세 김을 갈라놓다
 summary: 
 date: 2025-02-14
 authors:

@@ -1,5 +1,5 @@
 ---
-title: 
+title: 대한민국 제5공화국 (6) — 아웅산 폭발, 경제수석을 잃다
 summary: 
 date: 2025-03-02
 authors:

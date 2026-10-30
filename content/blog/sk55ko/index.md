@@ -1,5 +1,5 @@
 ---
-title: 
+title: 대한민국 제5공화국 (5) — 한중, 얼음을 녹이며 올리브 가지를 내밀다
 summary: 
 date: 2025-02-27
 authors:
